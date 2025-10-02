@@ -1,0 +1,1267 @@
+id,student_id,course_id,estado,puntaje,fecha_matricula,datastream_metadata
+19,5,14,Activo,100,2025-10-02 06:52:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""3260ae89-db47-48ed-b089-ecbe512d9a64"",
+    ""source_timestamp"": ""1759387920000""
+  }
+}"
+35,7,15,Activo,100,2025-10-02 06:56:27.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5f9244be-6c1b-40c3-a16b-344f4c7504c1"",
+    ""source_timestamp"": ""1759388187000""
+  }
+}"
+101,17,7,Activo,100,2025-10-02 07:08:49.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d3b3d0a7-b91a-44da-8796-f6410af5aacc"",
+    ""source_timestamp"": ""1759388929000""
+  }
+}"
+103,17,11,Activo,100,2025-10-02 07:08:57.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b37cd3bc-094c-4742-b81d-98d674221280"",
+    ""source_timestamp"": ""1759388937000""
+  }
+}"
+124,20,3,Activo,100,2025-10-02 07:16:57.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4b620598-ff4c-4e55-ac9c-b0d9a75a21de"",
+    ""source_timestamp"": ""1759389417000""
+  }
+}"
+149,24,1,Activo,100,2025-10-02 08:04:17.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""33e86d9d-6c21-4d11-bdad-546bfb985aaf"",
+    ""source_timestamp"": ""1759392257000""
+  }
+}"
+2,1,1,Activo,70,2025-10-01 10:17:03.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b7ffd90d-ad55-4d28-9b4b-962dfd260401"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+1,2,1,Activo,21,2025-10-01 09:59:51.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""607b6b6e-d795-4dbd-b05f-1656e82f8e54"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+6,3,6,Activo,49,2025-10-02 05:46:16.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""40853496-c21d-4629-82fc-4f2dffb7a06e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+9,3,9,Activo,60,2025-10-02 05:46:31.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c98e0b97-9d08-43e4-a7da-9d67d46f836b"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+7,3,7,Activo,50,2025-10-02 05:46:21.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""21b82efd-7151-44f2-b455-22d5e856c47d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+8,3,8,Activo,2,2025-10-02 05:46:26.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b6756f85-b023-496a-9014-e63d65ded3b2"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+5,3,5,Activo,65,2025-10-02 05:46:12.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""77ec90d0-e97e-4dde-b2ef-d6353f3456d5"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+4,3,4,Activo,25,2025-10-02 05:46:07.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bdc110a2-9937-433a-98ca-8ab68ada872c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+14,4,13,Activo,8,2025-10-02 05:48:57.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8a84bf70-4529-4e0b-8e7e-0cf7a674d2ec"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+13,4,14,Activo,76,2025-10-02 05:48:53.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5f1a98e9-32d7-49bc-84b2-f75d832198db"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+12,4,15,Activo,91,2025-10-02 05:48:02.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c2ac7403-f752-4bca-aacf-c1bf383d232e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+17,4,10,Activo,38,2025-10-02 05:49:30.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1be16a97-fa09-4f4f-9806-7ad5e379b455"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+15,4,12,Activo,12,2025-10-02 05:49:01.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""0e1618b1-2cbc-4249-a1ca-7441f7a8fa3b"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+16,4,11,Activo,35,2025-10-02 05:49:25.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""60b6ed2a-e26a-462f-98de-14e54302de18"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+23,5,10,Activo,18,2025-10-02 06:53:30.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""122cbe9a-78dc-41c5-833b-575c9830b004"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+20,5,13,Activo,49,2025-10-02 06:53:12.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""89bfd1d7-5cf0-4716-9181-71d6b383fd8b"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+18,5,15,Activo,83,2025-10-02 06:48:22.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""226f7293-371d-4b0e-8c29-ce4110839af3"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+22,5,11,Activo,93,2025-10-02 06:53:20.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""92da3c89-1b52-4dfb-99a9-2db44059a9d4"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+21,5,12,Activo,48,2025-10-02 06:53:16.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1a54b68a-5ef5-4b62-a3cc-09abf3cccf1f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+24,6,10,Activo,14,2025-10-02 06:54:30.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""549b4b8d-8b92-40f8-965d-0facc1f53ec9"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+25,6,14,Activo,12,2025-10-02 06:54:36.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bad3a6b1-8237-4a70-9a61-e13c49711ed7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+26,6,13,Activo,18,2025-10-02 06:54:42.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""45643f8b-b894-495e-98d9-82c7483b2a66"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+28,6,11,Activo,17,2025-10-02 06:55:55.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""3bd2eaec-a5f8-4899-8c02-dfbd290fb919"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+27,6,12,Activo,54,2025-10-02 06:55:51.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""181c3a10-91a9-4945-b8e5-ed0967510479"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+29,6,10,Activo,20,2025-10-02 06:56:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""2878e063-1ddd-45fa-bccf-330fdef78b5c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+32,7,12,Activo,17,2025-10-02 06:56:15.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""62051fef-fc1b-467a-a29c-eb54ec6f514e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+31,7,11,Activo,94,2025-10-02 06:56:11.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""17d5fcc0-36b0-4921-9536-fa917f25a9ca"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+33,7,13,Activo,3,2025-10-02 06:56:19.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8dc86bf3-9e90-4d06-ac81-1ca989c0083a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+34,7,14,Activo,62,2025-10-02 06:56:23.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a6c6967d-88b5-452c-be9f-748874063e27"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+30,7,10,Activo,51,2025-10-02 06:56:08.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""e654b4b9-5db5-448d-90d2-b64e9963e967"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+37,8,14,Activo,68,2025-10-02 06:57:03.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1f4f56f5-9636-490f-9421-958fa4b6c530"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+39,8,12,Activo,92,2025-10-02 06:57:11.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""097df070-7aa6-46ce-88a4-4db0657da597"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+41,8,10,Activo,23,2025-10-02 06:57:34.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6ab298fe-8a0d-4278-818f-6eb6f16048ec"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+38,8,13,Activo,99,2025-10-02 06:57:07.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8ff0ade7-114a-4a5e-8005-544c01586dc2"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+36,8,15,Activo,14,2025-10-02 06:56:59.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""76b803c6-a87f-445b-8570-ca62ff14506e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+40,8,11,Activo,60,2025-10-02 06:57:14.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b50b8840-6aa1-4214-9ca6-ab44971f1d48"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+47,9,11,Activo,32,2025-10-02 06:58:15.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""e23d6dc1-a0bf-45df-85a7-f6b628de382f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+48,9,13,Activo,18,2025-10-02 06:58:19.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f11d631c-1e0a-407e-b0a2-31370a4fee8e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+46,9,9,Activo,47,2025-10-02 06:58:09.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c296ffb9-c5a0-4cbd-b807-c60f4cf34674"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+49,9,15,Activo,95,2025-10-02 06:58:23.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f386e6e4-0178-40a9-9f63-18b1422c1666"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+44,9,5,Activo,8,2025-10-02 06:57:59.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""85fb2e2c-85a8-48f1-8fdd-8768b1e36605"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+45,9,7,Activo,35,2025-10-02 06:58:04.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""cc9aac3f-17bd-4cff-a493-cdf7f061ab36"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+43,9,3,Activo,2,2025-10-02 06:57:55.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""11e00697-2ad7-45b4-93c3-050da7f4395e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+42,9,1,Activo,34,2025-10-02 06:57:50.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a4e8f47d-31b2-4d9a-a6aa-b303311e6c5c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+55,10,12,Activo,90,2025-10-02 06:59:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""9127e3b2-fe06-4ab5-8fbf-9ff8dcc8a449"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+56,10,14,Activo,17,2025-10-02 06:59:04.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d2138ba3-bd2f-4c1d-a9a0-9456c19efbb0"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+53,10,8,Activo,55,2025-10-02 06:58:50.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""2fb7654a-9b7b-416f-b0b1-342407cde8c8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+51,10,4,Activo,17,2025-10-02 06:58:41.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c7d1ad0e-6409-42b9-b73c-c118de81beb4"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+52,10,6,Activo,21,2025-10-02 06:58:45.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""30dd693c-9ae3-46fd-93e6-8b6094f5f55d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+54,10,10,Activo,11,2025-10-02 06:58:55.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""3a009c91-ba89-43fe-a200-2b0ac3a320a7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+50,10,2,Activo,21,2025-10-02 06:58:36.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""821f50d8-70df-4f86-970a-60df64e3c057"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+62,11,13,Activo,72,2025-10-02 07:02:02.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a8255042-23a8-4406-91e0-250aeb137852"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+57,11,1,Activo,14,2025-10-02 07:01:32.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""0f852fad-be0d-45be-9453-790bae405f9c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+60,11,5,Activo,70,2025-10-02 07:01:46.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""58f8f776-5de9-4871-a368-976ce1a55622"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+61,11,8,Activo,17,2025-10-02 07:01:52.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4c9015ae-f1d9-4947-8097-4d778a954e14"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+58,11,2,Activo,17,2025-10-02 07:01:35.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""cf5d8e62-255f-4c73-98b0-c9e01e650c9d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+59,11,3,Activo,44,2025-10-02 07:01:40.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bf5e768e-740f-4568-90df-d041b11f7875"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+67,12,8,Activo,99,2025-10-02 07:02:28.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""2f412099-6d37-4780-abae-5865d584d4db"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+66,12,5,Activo,58,2025-10-02 07:02:23.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""47cd2171-2b2f-4000-9317-1b2b176fd471"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+65,12,3,Activo,31,2025-10-02 07:02:19.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""66277524-9672-47ae-9763-96429776e6b5"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+64,12,2,Activo,32,2025-10-02 07:02:15.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""44074692-4c0c-43c0-b93c-3cc952eaf175"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+68,12,13,Activo,18,2025-10-02 07:02:32.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6094dc6a-3eac-44ec-acf5-31b3f2d369b8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+63,12,1,Activo,10,2025-10-02 07:02:10.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4ef4f24d-7cd0-4d04-aab8-d1ff0abd575f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+76,13,15,Activo,92,2025-10-02 07:05:30.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""21980d5f-db48-4250-833f-c94af103b50b"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+75,13,13,Activo,36,2025-10-02 07:05:26.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d051d0d0-bea2-417e-bda6-ba47f528bcc2"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+71,13,5,Activo,40,2025-10-02 07:05:09.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""716be302-9a53-4b15-b394-150b8b8fe5c7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+74,13,11,Activo,63,2025-10-02 07:05:22.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""93194f72-f57f-4af4-8c68-46f7df656267"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+72,13,7,Activo,89,2025-10-02 07:05:13.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""e63d1d33-a192-4c86-8e25-9264b6c7ffd6"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+69,13,1,Activo,91,2025-10-02 07:05:01.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fc3b7fd6-d19f-4a0e-8fe8-640c5b517a9d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+73,13,9,Activo,26,2025-10-02 07:05:17.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fc511328-effa-4649-8a78-cff91361e802"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+70,13,3,Activo,3,2025-10-02 07:05:05.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8da5483d-c6b9-46e7-bcfd-0bded6e27973"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+79,14,6,Activo,34,2025-10-02 07:06:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""608859a5-c4eb-4e03-a577-78bc18e46f5c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+78,14,4,Activo,77,2025-10-02 07:05:56.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d1e3986c-ec45-4abf-8727-e00270db7e63"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+77,14,2,Activo,51,2025-10-02 07:05:52.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""71c6cc00-c597-43ce-992c-eb4de7967624"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+80,14,8,Activo,36,2025-10-02 07:06:05.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""72004eca-48cf-40b5-97a1-d243eda56ec8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+82,14,12,Activo,82,2025-10-02 07:06:13.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5a6fb086-adab-466a-bc73-17db6daa91d7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+81,14,10,Activo,78,2025-10-02 07:06:09.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""526057e9-50e4-429d-a377-7e8c58045608"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+83,14,14,Activo,77,2025-10-02 07:06:18.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""cc5e8180-5fa2-4221-9f2b-6bf770b9f8fb"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+89,15,11,Activo,64,2025-10-02 07:06:49.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1487c61a-4946-47c2-bc7c-3cebe3434556"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+88,15,9,Activo,40,2025-10-02 07:06:45.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a3198de6-709c-428a-bfb7-59f5064979ba"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+90,15,13,Activo,98,2025-10-02 07:06:53.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""47cf239d-52ac-4de5-b9c6-112c3d397080"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+85,15,3,Activo,55,2025-10-02 07:06:31.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d2f22290-ba0a-4ceb-af08-e6a790f7b01a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+84,15,1,Activo,37,2025-10-02 07:06:27.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8741897c-9aee-4380-a5fe-98e6ab38dcd7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+91,15,15,Activo,98,2025-10-02 07:06:57.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a28725d7-f495-45ae-831e-c31b980154e7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+86,15,5,Activo,62,2025-10-02 07:06:36.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f7d7750f-fcfc-45b7-a461-c64aee55e25a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+87,15,7,Activo,45,2025-10-02 07:06:40.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""0388935b-67c6-4bd0-aa06-79ab8e664909"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+96,16,8,Activo,76,2025-10-02 07:07:31.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""040b827f-667d-46cd-976f-bf1b42442308"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+92,16,1,Activo,95,2025-10-02 07:07:04.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""da944e2a-ca60-4106-804e-fa83a6b1ce0f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+93,16,2,Activo,82,2025-10-02 07:07:09.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4fe464ae-b620-4fe8-9c5e-f49d3e260e22"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+94,16,3,Activo,23,2025-10-02 07:07:16.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""84f4893e-2046-46b9-8801-fae67d27261a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+95,16,5,Activo,69,2025-10-02 07:07:26.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6fca33e9-2618-48b5-8e4a-bb9f4b1ef806"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+97,16,13,Activo,73,2025-10-02 07:07:44.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6a9ac13f-2c92-4f03-a6fb-b2a1f20f22d7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+104,17,13,Activo,61,2025-10-02 07:09:02.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""37fe89b5-36d0-4d05-b2f2-100db7464e36"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+105,17,15,Activo,2,2025-10-02 07:09:06.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""74144e07-4fec-45c2-87d7-d5abf7baf2f6"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+100,17,5,Activo,74,2025-10-02 07:08:45.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""39b65b11-c699-46ef-83ab-12b48410f57f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+102,17,9,Activo,80,2025-10-02 07:08:53.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bb5b834e-5ab7-449f-8903-4ee41afa4525"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+98,17,1,Activo,35,2025-10-02 07:07:50.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""90aa7b81-01ed-41c7-8602-3908190bae5b"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+99,17,3,Activo,56,2025-10-02 07:08:35.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""ad798ca2-5d17-4616-ba56-c280002f2fc1"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+110,18,10,Activo,16,2025-10-02 07:10:10.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d94ae666-510b-403e-a6c4-f629110a7c74"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+106,18,2,Activo,25,2025-10-02 07:09:51.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4aab8fb1-6662-4ce7-981c-81eed2d9c667"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+107,18,4,Activo,21,2025-10-02 07:09:55.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""956757aa-2b97-4f4d-9a63-945df082438a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+108,18,6,Activo,29,2025-10-02 07:10:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""88a5a1ca-87ee-460f-87e0-a5c03e9e8093"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+109,18,8,Activo,81,2025-10-02 07:10:05.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""7df7f1be-3be7-42e9-a29e-8d9f9b4bca6e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+112,18,14,Activo,48,2025-10-02 07:10:26.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""996b3046-8887-4ecc-9e2d-5d7c3404257a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+111,18,12,Activo,40,2025-10-02 07:10:22.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f67e308c-941e-49d6-aa2c-aa1635738219"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+121,19,15,Activo,89,2025-10-02 07:15:51.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""651f4500-867c-408a-abdc-714bf49b9944"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+115,19,3,Activo,66,2025-10-02 07:12:34.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""78d02f26-660d-41d7-b595-573c771339af"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+117,19,7,Activo,21,2025-10-02 07:12:43.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a3dcf78a-6024-40c7-8c85-085e930bfa00"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+114,19,1,Activo,22,2025-10-02 07:12:30.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c435c767-d166-4eec-b5dc-1618de08f5c5"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+118,19,9,Activo,11,2025-10-02 07:12:48.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8c3ee5e7-7534-40d3-8aee-d1460fe8d262"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+119,19,11,Activo,94,2025-10-02 07:13:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""028940d3-2408-433b-9624-0d302731bb0c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+120,19,13,Activo,34,2025-10-02 07:13:04.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5e3c1114-8927-4463-aee3-75462b6ca395"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+116,19,5,Activo,64,2025-10-02 07:12:39.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c189af17-9268-4823-9ad9-e96b66ef1630"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+123,20,2,Activo,46,2025-10-02 07:16:52.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fe6c83c4-0845-48bf-8ad1-9e1bdf00aef8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+126,20,8,Activo,18,2025-10-02 07:17:10.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1bf58d6d-ec0c-4e3a-81ac-d3b6f4f2535a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+127,20,13,Activo,99,2025-10-02 07:17:16.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d4e23488-3d8b-446c-8c35-fb8a64dd540f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+122,20,1,Activo,43,2025-10-02 07:16:46.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""47757763-958d-46e6-aa62-604b4f82c67f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+125,20,5,Activo,64,2025-10-02 07:17:03.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bd6d71a0-4087-4901-bed0-e2c4fe7ec253"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+131,21,5,Activo,72,2025-10-02 07:17:58.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8ec01d46-a5bf-47c4-945d-f965a347b561"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+129,21,2,Activo,98,2025-10-02 07:17:49.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""064c410a-f047-421c-97bb-4b74f8ad00e5"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+133,21,13,Activo,87,2025-10-02 07:34:27.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8560e229-6baa-41d1-9cbc-ce423e3d2d75"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+132,21,8,Activo,41,2025-10-02 07:34:22.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""177e86ed-b068-4d16-859c-96a6f3b23c3e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+130,21,3,Activo,74,2025-10-02 07:17:54.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""9c41600c-9dba-4f01-80a2-3bb2a419f206"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+128,21,1,Activo,39,2025-10-02 07:17:45.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""75de6ebb-0508-4212-bf4c-c4b7bc816da8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+134,22,2,Activo,12,2025-10-02 08:02:01.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1f8fc7f1-1921-4b10-98cc-c8bd0179d472"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+139,22,12,Activo,66,2025-10-02 08:02:24.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""810607d6-e438-4d79-8cc2-609ec0202823"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+138,22,10,Activo,12,2025-10-02 08:02:19.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""284c8059-0ce7-4d60-90c9-b67ed9e3b5c1"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+140,22,14,Activo,95,2025-10-02 08:02:28.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6014d633-fccb-437a-97d8-e0d6aaa4e874"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+137,22,8,Activo,98,2025-10-02 08:02:15.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6c9d4b34-e782-4dec-8e34-bc59d0797c05"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+136,22,6,Activo,59,2025-10-02 08:02:11.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""e2687a8e-d08f-414f-9d66-69ccc13aff62"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+135,22,4,Activo,99,2025-10-02 08:02:06.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5d707de2-c1fb-4c1f-8d6a-ac86bef18bfb"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+147,23,13,Activo,29,2025-10-02 08:03:02.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""219ca83d-ca77-432b-87ef-0c0c48a9cf38"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+142,23,3,Activo,92,2025-10-02 08:02:42.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4d222b66-7276-4322-bd84-a2adfc0cb37f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+148,23,15,Activo,78,2025-10-02 08:03:09.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fed0dede-d5c6-454d-9cfc-d0f87e413c06"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+145,23,9,Activo,6,2025-10-02 08:02:54.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""babdfa46-ee76-4e6c-8cde-9f8d32a2ea48"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+141,23,1,Activo,75,2025-10-02 08:02:38.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1f539449-7d82-4665-bb41-575b937bdc00"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+146,23,11,Activo,90,2025-10-02 08:02:57.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""331a4a3b-6abd-444c-8b4e-214cd5ecb96a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+143,23,5,Activo,31,2025-10-02 08:02:46.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f944ba29-e038-4943-a6da-a0c0dd85f94d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+144,23,7,Activo,80,2025-10-02 08:02:50.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8a551ea3-3799-4332-9789-ec771441d960"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+152,24,5,Activo,34,2025-10-02 08:04:29.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4c716b79-a896-4d1e-9e49-d84e4ea467a2"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+154,24,13,Activo,60,2025-10-02 08:04:38.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b15c181b-da24-4d07-a26d-4b714a79e17a"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+150,24,2,Activo,65,2025-10-02 08:04:21.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""14266978-8cc4-483b-ba2b-2ee8f5df6f92"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+153,24,8,Activo,93,2025-10-02 08:04:33.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1932021a-2653-432c-902e-f2aea71e73f3"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+151,24,3,Activo,26,2025-10-02 08:04:25.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""787c2c8a-0f4f-4874-9f0f-56b2cf773bdb"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+155,25,1,Activo,21,2025-10-02 08:04:44.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""20090dd5-5e7a-4430-996f-1d0b18086f00"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+160,25,13,Activo,7,2025-10-02 08:05:05.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6662801e-bd2a-43ed-a4e8-8d83c5d97a24"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+159,25,8,Activo,51,2025-10-02 08:05:01.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""0defeccb-a254-42a6-8fec-b628716f7e84"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+158,25,5,Activo,50,2025-10-02 08:04:56.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""011764f8-7869-4476-b31b-b89853264c8b"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+156,25,2,Activo,26,2025-10-02 08:04:48.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bb029e6c-7e23-4081-a0a7-d1c9fcdc9cc8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+157,25,3,Activo,66,2025-10-02 08:04:52.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f9f54cd2-b610-41a6-a78e-32f7594790df"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+167,26,14,Activo,53,2025-10-02 08:07:04.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""2117ccb2-f22b-4123-9bb5-171f838538fc"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+166,26,12,Activo,97,2025-10-02 08:07:00.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c2524886-6f8d-4608-b488-98e9a02d8785"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+165,26,10,Activo,11,2025-10-02 08:06:56.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5de56e01-38bf-4505-9c40-07ec6a7d67c0"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+163,26,6,Activo,28,2025-10-02 08:05:20.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d8f5e0d2-0008-44f7-a964-0745ac5fe8ad"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+161,26,2,Activo,79,2025-10-02 08:05:12.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""0bdd4a0a-858e-49ef-b875-0960bb841ef7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+164,26,8,Activo,19,2025-10-02 08:06:19.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8bf0e681-8280-4aeb-a2d0-d2e66eb4c31d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+162,26,4,Activo,73,2025-10-02 08:05:16.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4af045ee-9dd5-422a-b0bc-49de9f4e586f"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+169,27,3,Activo,97,2025-10-02 08:07:24.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c22a989c-bd03-4fe4-b8c6-bf3642945269"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+173,27,11,Activo,2,2025-10-02 08:07:43.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""9b7d2a9a-f504-47ed-9771-fbed5ff25d9c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+168,27,1,Activo,71,2025-10-02 08:07:20.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8b453dce-3f55-400d-ba2e-d7960e7f565d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+174,27,13,Activo,88,2025-10-02 08:07:47.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""2cc87174-4aff-4ef4-9545-334ffa8c52ca"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+170,27,5,Activo,69,2025-10-02 08:07:29.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fe18ef19-f874-4301-8c52-11f5ac6c782e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+172,27,9,Activo,75,2025-10-02 08:07:39.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fb812f06-3ea6-4438-b049-099d05dd83d0"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+171,27,7,Activo,57,2025-10-02 08:07:34.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""1c663e1c-9cc3-4c24-9790-2d69701222fd"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+179,28,7,Activo,89,2025-10-02 08:08:28.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""71a468ca-5e36-42a0-9000-65d7a0762b26"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+175,28,1,Activo,32,2025-10-02 08:08:11.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bc88a049-33ae-4020-8277-6cb40cbf33d1"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+176,28,2,Activo,96,2025-10-02 08:08:15.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c10cb0fa-00e5-4061-abaa-975492f0c182"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+178,28,5,Activo,28,2025-10-02 08:08:23.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4e7c9e44-c7b1-4ddb-a3b1-54652099f5b8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+177,28,3,Activo,83,2025-10-02 08:08:19.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""3f18c8f2-b7f4-48f3-a99c-14e4bfb9af60"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+181,28,13,Activo,39,2025-10-02 08:08:38.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5e74405c-ecb4-4bf6-8843-b616458323b8"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+180,28,9,Activo,61,2025-10-02 08:08:34.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""33be61b5-ee75-4738-9f93-8393128faac7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+182,28,15,Activo,11,2025-10-02 08:08:43.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""5bf14582-d12f-464a-9ca1-bf59140bcf00"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+187,29,5,Activo,74,2025-10-02 08:09:29.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b91d372b-ae62-483c-9a74-efbd9ae51858"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+185,29,3,Activo,48,2025-10-02 08:09:21.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b3348676-6f88-474e-a72a-06755ff09590"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+183,29,1,Activo,37,2025-10-02 08:08:52.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f39dc2da-22c3-4fd1-be18-ce43100e35a6"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+189,29,11,Activo,64,2025-10-02 08:09:38.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a878d062-aadd-4b25-808e-9c538e4430f4"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+186,29,4,Activo,84,2025-10-02 08:09:25.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""4ed893f7-fba7-4770-9e0d-90bbb780802c"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+188,29,10,Activo,17,2025-10-02 08:09:34.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""64005787-7d44-4ede-94f9-132a0c457aa2"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+184,29,2,Activo,52,2025-10-02 08:09:02.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""650f045e-ae23-4933-93bc-b9ca38a41139"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+191,30,4,Activo,53,2025-10-02 08:09:49.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""fe6c19d3-df56-4e45-ae42-4bd2cb9380f2"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+192,30,6,Activo,57,2025-10-02 08:09:54.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""62e977ad-2ebd-445e-b634-33ea07ac4df1"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+196,30,14,Activo,28,2025-10-02 08:10:12.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""8ef8dfc2-bd76-47b7-8b20-3543e4cd25e9"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+194,30,10,Activo,50,2025-10-02 08:10:04.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""d6616c3e-138f-4cea-9893-93512966dce9"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+195,30,12,Activo,76,2025-10-02 08:10:07.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""34e62b7c-a79c-428f-92ea-1631be374171"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+190,30,2,Activo,69,2025-10-02 08:09:45.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c1676324-7b61-4584-9908-2a4aa0512dba"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+193,30,8,Activo,24,2025-10-02 08:09:58.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""205ea5fd-fdb3-4645-bdf4-56aa403040cd"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+204,31,15,Activo,96,2025-10-02 08:10:53.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""f9a308f4-e166-4f9c-bf35-db77526715f3"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+201,31,9,Activo,97,2025-10-02 08:10:41.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""80e08f29-2ae4-4c34-8875-585fad8410ea"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+197,31,1,Activo,14,2025-10-02 08:10:21.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""e6ba1d5c-3277-48a5-8d7c-5d4984e47325"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+199,31,5,Activo,86,2025-10-02 08:10:29.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""bfcee86c-9298-4fd4-ac16-81b1e564f698"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+203,31,13,Activo,62,2025-10-02 08:10:49.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""868414cb-3dcd-4005-9679-a89aa7d823d4"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+202,31,11,Activo,70,2025-10-02 08:10:45.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""b09a8f91-c4ab-4efc-833a-f72c5b92a556"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+200,31,7,Activo,71,2025-10-02 08:10:36.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a9f38601-8aae-4510-856f-e4f0a6e3c9e6"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+198,31,3,Activo,86,2025-10-02 08:10:25.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""79fc7e17-773b-4ba8-b68c-42c035e3818e"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+209,32,8,Activo,13,2025-10-02 08:11:15.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""6d533aae-a7d0-40c8-9312-a4e612bf83c1"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+208,32,5,Activo,86,2025-10-02 08:11:11.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""76ec4281-432e-42a9-9194-1775f76a5912"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+205,32,1,Activo,96,2025-10-02 08:10:58.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""304d1d8b-9d9e-4c1c-ae5d-e5f1b7561895"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+206,32,2,Activo,93,2025-10-02 08:11:03.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""611b97e7-3e82-426f-9ea0-e3e5309171d3"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+207,32,3,Activo,73,2025-10-02 08:11:07.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""397f07a1-1302-4931-b628-a150399262b7"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+210,33,13,Activo,6,2025-10-02 08:11:25.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""c89a09f4-a20d-4b6f-aa68-1d6cee9a1c61"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+214,33,15,Activo,95,2025-10-02 08:11:41.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""55045270-5635-46a6-a4ff-62547acb212d"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+211,33,8,Activo,88,2025-10-02 08:11:29.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""34f394e1-d5ea-4e3e-bfe1-46f517d82456"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+212,33,9,Activo,24,2025-10-02 08:11:33.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""7740a689-a09e-433a-bfa9-9025ddc35476"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+213,33,10,Activo,53,2025-10-02 08:11:37.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""0128778f-6118-4be0-9523-6797890c86b1"",
+    ""source_timestamp"": ""1759393147000""
+  }
+}"
+3,3,3,Activo,80,2025-10-02 05:45:59.000000 UTC,"{
+  ""datastream_metadata"": {
+    ""uuid"": ""a517b84a-5e49-417d-a839-aa7dddfd347f"",
+    ""source_timestamp"": ""1759393738000""
+  }
+}"
